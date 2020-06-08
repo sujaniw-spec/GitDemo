@@ -17,5 +17,6 @@ public class App
     private static void getMessage() {
     	
     	System.out.println("This is get Message");
+    	System.out.println("Sithmi put a comment");
     }
 }
